@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Publisher {
+namespace PublisherKit {
     public class Publisher : MonoBehaviour
     {
         List<GameObject> subscribers = new List<GameObject>();
